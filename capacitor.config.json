@@ -1,0 +1,7 @@
+{
+  "appId": "com.ekiii.teacherhub",
+  "appName": "EKIII Teacher Hub",
+  "webDir": "www",
+  "server": { "androidScheme": "https" },
+  "android": { "allowMixedContent": false }
+}
